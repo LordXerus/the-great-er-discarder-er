@@ -1,8 +1,38 @@
-# The Great-*er*  Discarder-*er*
+# The Great-*er*  Discarder-*er* 
+#### LordXerus Fork
 ```diff
 - The Great Discarder
 + The Great-er Discarder-er
 ```
+
+First attempt at contributing to open source... 
+
+I'm going to make a pull request, then probably abandon this fork.
+
+#### Background
+
+I use The [Marvellous Suspender](https://github.com/gioxx/MarvellousSuspender)(Fork of The Great Suspender)
+and I like it, so I don't really use nor care about Chrome's built-in discard feature.
+In fact, it kinda annoys me because it discards my Spotify Web Player every time I pause it using my Fn keys.
+
+Hopefully whitelisting it here in The Great-er Discard-er fork will work. 
+I will turn off automatic discard because I already suspend my tabs.
+
+##### Problem
+
+I also like the discard tab on startup feature.
+But it's hidden when automatic discard is set to `Never`.
+
+Seems like an easy problem, so I'll take a crack at it with my nooby Javascript skills and make a pull request instead of an issue.
+This repository is for that pull request and other potential contributions.
+
+##### Solution
+WIP
+
+
+
+
+## The Great-er Discard-er readme
 
 Since the "The Great Discarder" project has been dormant for years, and the semi-related "The Great Suspender" has hit some bumps in the road,
 I thought I'd take a crack at publishing this fork.
