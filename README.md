@@ -27,7 +27,12 @@ Seems like an easy problem, so I'll take a crack at it with my nooby Javascript 
 This repository is for that pull request and other potential contributions.
 
 ##### Solution
-WIP
+So after reading the code in `options.js`, it seems like the function responsible is `handleChange`. 
+Whenever, `interval` is less than 0 (probably equal to zero, which represents never),
+it calls `autoSuspendOptionsVisibility`, which sets a `div`'s `.style.display` to `none`.
+
+Since discard on startup is not really related to auto discard,
+moving it into a new div or putting it together with the `Other Options`, should be a good change, in my opinion.
 
 
 
